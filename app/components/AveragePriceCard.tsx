@@ -11,7 +11,7 @@ export interface AveragePriceCardProps {
 const AveragePriceCard = ({listings}: AveragePriceCardProps) => {
     return (
         <Card>
-            <div className="flex gap-2 px-10">
+            <div className="flex justify-center gap-2 px-10">
                 <div className="flex justify-center items-center">
                     <i className="las la-dollar-sign text-6xl text-primary"></i>
                 </div>

@@ -11,7 +11,7 @@ const ActiveListingsCard = ({listings}: ActiveListingsCardProps) => {
     const activeListings = listings.filter(listing => listing.status === 'live')
     return (
         <Card>
-            <div className="flex gap-2 px-10">
+            <div className="flex justify-center gap-2 px-10">
                 <div className="flex justify-center items-center">
                     <i className="las la-home text-6xl text-primary"></i>
                 </div>

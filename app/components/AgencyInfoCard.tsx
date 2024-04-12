@@ -23,7 +23,7 @@ const AgencyInfoCard = () => {
 
     const title = () => {
         return (
-            <div className='flex justify-between flex-col-reverse md:flex-row'>
+            <div className='flex justify-between items-center flex-col-reverse md:flex-row'>
                 <div className="flex">
                     <div>
                         <div className={'text-2xl font-bold text-neutral-900'}>{agencyInfo?.name}</div>
@@ -36,7 +36,7 @@ const AgencyInfoCard = () => {
     }
 
     const footer = () => {
-        return <div className="flex justify-around flex-col gap-2 md:flex-row md:gap-0">
+        return <div className="flex items-center md:justify-around flex-col gap-2 md:flex-row md:gap-0">
             <div className="flex gap-2">
                 <i className="las la-envelope text-2xl"></i>
                 <div>{agencyInfo?.contactDetails?.general.email}</div>
@@ -54,9 +54,9 @@ const AgencyInfoCard = () => {
 
     return (
         <Card title={title()} footer={footer()}>
-            <div className="h-[110px]">
+            <div className="h-40 md:h-[110px] flex justify-center">
                 <div className="flex gap-4 flex-col md:flex-row">
-                    <div className="flex gap-8 mt-4 flex-grow px-8">
+                    <div className="flex justify-center gap-8 mt-4 flex-grow px-8">
                         <div className="flex flex-col gap-1">
                             <div className="text-center"><i className="las la-hand-holding-usd"></i></div>
                             <div className='text-center text-lg font-bold'>{agencyInfo?.profile.numberForSale}</div>

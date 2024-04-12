@@ -46,7 +46,7 @@ export default function LocalListingCards({listings}: LocalListingCardsProps) {
             <div className="flex flex-wrap justify-center">
                 {
                     listings.map((listing: Listing) => (
-                        <div key={listing.id} className="w-[500px]">
+                        <div key={listing.id} className="w-[600px]">
                             <div className="relative">
                                 {
                                     listing.status === 'underOffer' && (

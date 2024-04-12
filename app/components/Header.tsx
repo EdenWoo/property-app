@@ -13,10 +13,12 @@ const Header = () => {
                         <Link href="/">Property App</Link>
                     </li>
                     <li>
-                        <Link className={`${pathname === '/listings' || pathname === '/' ? 'text-blue-700' : ''}`} href="/listings">Sandbox</Link>
+                        <Link className={`${pathname === '/listings' ? 'text-blue-700' : ''}`}
+                              href="/listings">Sandbox</Link>
                     </li>
                     <li>
-                        <Link className={`${pathname === '/local-listings' ? 'text-blue-700' : ''}`} href="/local-listings">Local</Link>
+                        <Link className={`${pathname === '/local-listings' ? 'text-blue-700' : ''}`}
+                              href="/local-listings">Local</Link>
                     </li>
                 </ul>
             </nav>

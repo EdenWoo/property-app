@@ -1,0 +1,3213 @@
+[
+  {
+    "objective": "rent",
+    "propertyTypes": ["house"],
+    "status": "underOffer",
+    "saleMode": "rent",
+    "channel": "residential",
+    "addressParts": {
+      "stateAbbreviation": "qld",
+      "displayType": "fullAddress",
+      "streetNumber": "4",
+      "street": "Park Cove Boulevard",
+      "suburb": "Hope Island",
+      "postcode": "4212",
+      "displayAddress": "4 Park Cove Boulevard, Hope Island QLD 4212"
+    },
+    "advertiserIdentifiers": {
+      "advertiserType": "agency",
+      "advertiserId": 25351,
+      "contactIds": [1812726],
+      "agentIds": ["A159692"]
+    },
+    "apmIdentifiers": {
+      "suburbId": 17084
+    },
+    "bathrooms": 2.0,
+    "bedrooms": 5.0,
+    "carspaces": 2.0,
+    "dateAvailable": "2024-03-01",
+    "dateUpdated": "2024-03-22T04:06:55.087Z",
+    "dateListed": "2024-02-26T12:03:20Z",
+    "description": "Upon entering this newly built home you'll be greeted with an abundance of natural light! \nWith an open plan living design & views out to the poolside, this stunning home is ready to be called home!\n\nWith its central location close to local shops, schools & transport, this property offers modern living in a family friendly environment!\n\nThis property features: \n\n- Open plan tiled living/dining area overlooking the sparkling pool \n- Sleek modern well appointed kitchen with butlers pantry & modern appliances featuring 900 gas cook top & oven, dishwasher & plumbing for fridge + stone bench tops \n- Master bedroom with walk in robe, ensuite featuring his & hers basins & balcony \n- Remaining 4 bedrooms all with built in robes (1 x bedroom features a small walk in robe) \n- Main bathroom with shower & bath \n- Carpeted 2nd lounge/seating area upstairs \n- Ducted zoned Air-Conditioning \n- Separate internal laundry \n- Powder room \n- Marina berth included *13 metres* \n- Fully fenced \n- Double automatic lock up garage \n- Sparkling in-ground pool *monthly service included in rent, tenant to pay cost of chemicals*\n- Pets on application\n- Landscaped lawns & gardens \n- Blinds have been ordered yet to be installed\n- This property is brand new \n\n*To apply for this property please visit www.2apply.com.au*",
+    "features": [
+      "Alarm System",
+      "Built in wardrobes",
+      "Butler's Pantry",
+      "Covered Outdoor Entertainment Area",
+      "Dishwasher",
+      "Air conditioning",
+      "Heating",
+      "Fully fenced",
+      "In-ground pool",
+      "Jetty",
+      "Walk-in-Robe",
+      "Pets allowed"
+    ],
+    "geoLocation": {
+      "latitude": -27.8710891,
+      "longitude": 153.3658823
+    },
+    "headline": "BRAND NEW 5 BEDROOM FAMILY HOME WITH POOL & MARINA BERTH!",
+    "id": 16897618,
+    "inspectionDetails": {
+      "inspections": [],
+      "pastInspections": [],
+      "isByAppointmentOnly": true
+    },
+    "isNewDevelopment": false,
+    "media": [
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16897618_1_1_240226_120319-w1305-h841"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16897618_2_1_240226_120319-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16897618_3_1_240226_120319-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16897618_4_1_240226_120319-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16897618_5_1_240226_120319-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16897618_6_1_240226_120319-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16897618_7_1_240226_120319-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16897618_8_1_240226_120319-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16897618_9_1_240226_120319-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16897618_10_1_240226_120319-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16897618_11_1_240226_120319-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16897618_12_1_240226_120319-w1600-h1070"
+      }
+    ],
+    "priceDetails": {
+      "canDisplayPrice": false,
+      "displayPrice": "$1,520 per week"
+    },
+    "propertyId": "UV-2795-EI",
+    "rentalDetails": {
+      "rentalMethod": "rent",
+      "source": "internal",
+      "canDisplayPrice": false
+    },
+    "seoUrl": "https://www.domain.com.au/4-park-cove-boulevard-hope-island-qld-4212-16897618"
+  },
+  {
+    "objective": "rent",
+    "propertyTypes": ["house"],
+    "status": "recentlyUpdated",
+    "saleMode": "rent",
+    "channel": "residential",
+    "addressParts": {
+      "stateAbbreviation": "qld",
+      "displayType": "fullAddress",
+      "streetNumber": "12a",
+      "street": "Buring Court",
+      "suburb": "Highland Park",
+      "postcode": "4211",
+      "displayAddress": "12a Buring Court, Highland Park QLD 4211"
+    },
+    "advertiserIdentifiers": {
+      "advertiserType": "agency",
+      "advertiserId": 25351,
+      "contactIds": [1812726],
+      "agentIds": ["A159692"]
+    },
+    "apmIdentifiers": {
+      "suburbId": 16794
+    },
+    "bathrooms": 2.0,
+    "bedrooms": 4.0,
+    "carspaces": 2.0,
+    "dateAvailable": "2024-03-15",
+    "dateUpdated": "2024-04-03T07:22:43.347Z",
+    "dateListed": "2024-03-11T05:04:00Z",
+    "description": "Welcome 12a Buring Court , Highland Park  \n\nStep inside this stunning contemporary two-level design home with both upstairs and downstairs living that has been designed for the family to stretch out and relax in comfort. Upstairs also offers 4 spacious bedrooms, 2 modern styled bathrooms, with the master having private ensuite and large walk-in wardrobe.\n\nThis gorgeous home have been thoughtfully designed with an open floor plan and sleek and modern aesthetic. Downstairs featuring a brand new, large family kitchen with sparkling white stone benchtops, fitted state of the art appliances and large walk-in pantry. There is also a separate laundry and additional powder room. The kids and pets are well catered for in this home with plenty of grassed yard to play securely.\n\nStandout features of the properties include:\n\n- Master bedroom features private ensuite that features his & hers basins & a large walk-in wardrobe\n- 3 Remaining spacious bedrooms all with built in robes \n- Large modern styled main bathroom with free standing bath \n-  Separate powder room downstairs \n- Enjoy the luxuries of having both upstairs & downstairs living that has been designed for the family to stretch out\n- Striking, well-appointed kitchen with brand new appliances, large walk-in pantry & plenty of storage with top quality finishes & fixtures throughout including beautiful stone benchtops and soft blue glass splashback\n- Beautiful natural sunlight beams throughout the home\n- Ceiling fans throughout\n- Air-conditioning \n- Separate laundry with plenty of storage\n- Enjoy relaxing in the afternoon on the alfresco covered patio which is also great for entertaining with friends and family\n- Secure grassed yard, perfect for the kids and pets to enjoy\n- Low maintenance neatly presented gardens\n- Double lock up garage with plenty of storage and room for additional cars on driveway\n- Pets on application \n*Property is unfurnished* \n\nIdeally located in the highly desirable Highland Park. Close to all amenities including Emmanuel College, resort golf courses, shops, Metricon Stadium, public transport, parks and the M1. Only a short drive to beaches, the hinterland and major shopping centres like Pacific Fair and Robina Town Centre. Opportunities like this rarely come up, so don't miss out.\n\n*To apply for this property please visit www.2apply.com.au*",
+    "features": [
+      "Air conditioning",
+      "Built in wardrobes",
+      "Covered Outdoor Entertainment Area",
+      "Fenced",
+      "Walk-in-Robe",
+      "Pets allowed"
+    ],
+    "geoLocation": {
+      "latitude": -28.0149961,
+      "longitude": 153.3469135
+    },
+    "headline": "BEAUTIFUL CONTEMPORARY TWO STOREY HOME!",
+    "id": 16917597,
+    "inspectionDetails": {
+      "inspections": [],
+      "pastInspections": [],
+      "isByAppointmentOnly": true
+    },
+    "isNewDevelopment": false,
+    "media": [
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16917597_1_1_240311_050359-w1200-h790"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16917597_2_1_240311_050359-w1200-h793"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16917597_3_1_240311_050359-w1200-h807"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16917597_4_1_240311_050359-w1200-h806"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16917597_5_1_240311_050359-w1200-h783"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16917597_6_1_240311_050359-w1200-h797"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16917597_7_1_240311_050359-w1200-h776"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16917597_8_1_240311_050359-w1200-h801"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16917597_9_1_240311_050359-w1200-h779"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16917597_10_1_240311_050359-w1200-h794"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16917597_11_1_240311_050359-w1200-h771"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16917597_12_1_240311_050359-w1200-h790"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16917597_13_1_240311_050359-w1200-h778"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16917597_14_1_240311_050359-w1200-h785"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16917597_15_1_240311_050359-w1200-h778"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16917597_16_1_240311_050359-w1200-h785"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16917597_17_1_240311_050359-w1200-h791"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16917597_18_1_240311_050359-w1200-h779"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16917597_19_1_240311_050359-w1200-h817"
+      }
+    ],
+    "priceDetails": {
+      "canDisplayPrice": false,
+      "displayPrice": "$1,100 per week"
+    },
+    "rentalDetails": {
+      "rentalMethod": "rent",
+      "source": "internal",
+      "canDisplayPrice": false
+    },
+    "seoUrl": "https://www.domain.com.au/12a-buring-court-highland-park-qld-4211-16917597"
+  },
+  {
+    "objective": "rent",
+    "propertyTypes": ["house"],
+    "status": "underOffer",
+    "saleMode": "rent",
+    "channel": "residential",
+    "addressParts": {
+      "stateAbbreviation": "qld",
+      "displayType": "fullAddress",
+      "streetNumber": "7",
+      "street": "Beau Parade",
+      "suburb": "Bonogin",
+      "postcode": "4213",
+      "displayAddress": "7 Beau Parade, Bonogin QLD 4213"
+    },
+    "advertiserIdentifiers": {
+      "advertiserType": "agency",
+      "advertiserId": 25351,
+      "contactIds": [1612402],
+      "agentIds": ["A4757"]
+    },
+    "apmIdentifiers": {
+      "suburbId": 3904
+    },
+    "bathrooms": 3.0,
+    "bedrooms": 4.0,
+    "carspaces": 3.0,
+    "dateAvailable": "2024-03-22",
+    "dateUpdated": "2024-03-22T00:35:01.847Z",
+    "dateListed": "2024-03-12T01:54:30Z",
+    "description": "Nestled on one of the most private and picturesque streets in Mudgeeraba Forest Estate, this premium estate boasts one of the most luxurious pole homes on the Gold Coast. Positioned on over 1 acre of fenced, lush, and landscaped grounds, this family home is an entertainer's paradise.\n\nStep into a home like no other, offering a mammoth 4 bedrooms plus a study, 3 and a half bathrooms, complete with multiple living and entertaining spaces seamlessly integrating indoor and outdoor living.\n\nRelaxation awaits whether you're lounging by the pool, hosting soirées on the oversized 18m deck with in-built BBQ and bar, or enjoying your own cinematic experience in the fully equipped media room. Privacy and tranquillity are guaranteed, a privilege reserved for the luckiest of Gold Coast homeowners.\n\nThis property is the epitome of nature meets luxury living, without compromising on proximity to the Gold Coast's conveniences.\n\nMain Features:\n- Furnished with elegant and modern furniture (inventory available on request)\n- Open plan lounge featuring split system reverse cycle air-conditioning, wood fire heater, and carpeted area surrounded by polished timber flooring.\n- Spacious state-of-the-art chef's kitchen with oversized handmade blackbutt timber island bench with seating, walk-in butler's pantry, 900mm free-standing oven, and gas cooktop.\n- Sizeable light and airy master suite with grand walk-in wardrobe, ensuite with double vanity inset in exquisite native blackbutt benchtop, large walk-in shower, and bath with direct views over private deck, pool, and surrounding bushland.\n- Guest bedroom/wing with separated dual living filling a massive 7m x 6m space, well-appointed ensuite, lounge/dining area, kitchenette, and private deck access.\n- Split-level children's or guest wing comprising 2 bedrooms with ceiling fans, built-in robes, desk/work areas, shared rumpus/family room, family bathroom with walk-in shower, double vanity, and private deck access to pool area.\n- Study with built-in blackbutt timber workspace, ample storage, and space for 2-3 workstations.\n- Additional powder room with direct access to the main deck.\n- Ample media room complete with state-of-the-art 120\" screen serviced by Sony projector and top-of-the-line Yamaha surround sound system, electronically controlled dimmable lighting system, reverse-cycle air conditioning, raised tiered seating, and carpeted throughout for a true cinematic experience.\n- Oversized 18m x 6m main deck with views of surrounding bushland and pool area, featuring ceiling fans, built-in bar and barbecue, internally wired Paradigm wireless speaker system, all supported by solid handmade timber trusses.\n\nOther Features:\n- All bedrooms with two-way switch ceiling fans, blockout blinds, and USB charging ports.\n- Oversized carport with room for a car, trailer, or boat (owners will use part of the space for storage).\n- Fully fenced yard with electronic remote-controlled gate and keypad pedestrian access.\n- Expansive manicured 144m2 pool area with timber decking, resort-style hut (perfect for alfresco dining), and beautiful 8.5 x 4m pool with inbuilt seating at both ends.\n- Maintained grounds with a mix of native and tropical plants, sandstone retaining walls, and usable lawn.\n- Abundance of established trees throughout the property providing both privacy and a connection to nature.\n- Land size: 4,588m2 or 1.06 acres\n- Building size approximately: 730m2 or 79 squares\n\nLocation:\nNestled in picturesque Mudgeeraba Forest Estate, a short drive from some of the Gold Coast's most prestigious schools including St Andrews Lutheran College, Hillcrest Christian College, Kings Christian College, and Tallebudgera State School. Enjoy easy access to top-rated golf courses, shopping centres, iconic beaches, and the Gold Coast International Airport.\n\nThe gated estate has its own community page, offering even more reasons to feel secure at home here at 7 Beau Parade.\n\nTo experience the unparalleled luxury of this esteemed property, schedule a private inspection with Jessica Melling today.\n\nApplications accepted via www.2apply.com.au",
+    "features": [
+      "Air conditioning",
+      "Built in wardrobes",
+      "Balcony / Deck",
+      "Dishwasher",
+      "Electric Hot Water Service",
+      "Floorboards",
+      "Furnished",
+      "Swimming Pool",
+      "Rumpus Room",
+      "Rainwater storage tank"
+    ],
+    "geoLocation": {
+      "latitude": -28.1335177,
+      "longitude": 153.3777253
+    },
+    "headline": "Fully Furnished Luxurious Pole Home",
+    "id": 16919009,
+    "inspectionDetails": {
+      "inspections": [],
+      "pastInspections": [],
+      "isByAppointmentOnly": true
+    },
+    "isNewDevelopment": false,
+    "landAreaSqm": 4588.0,
+    "media": [
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_2_1_240312_015428-w1239-h793"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_1_1_240312_015428-w1263-h802"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_3_1_240312_015428-w1182-h790"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_4_1_240312_015428-w1176-h777"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_5_1_240312_015428-w1171-h757"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_6_1_240312_015428-w1180-h772"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_7_1_240312_015428-w1180-h787"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_8_1_240312_015428-w1180-h785"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_9_1_240312_015428-w1186-h786"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_10_1_240312_015428-w1185-h778"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_11_1_240312_015428-w1183-h777"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_12_1_240312_015428-w1177-h776"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_13_1_240312_015428-w1242-h823"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_14_1_240312_015428-w1179-h780"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_15_1_240312_015428-w1174-h776"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_16_1_240312_015428-w1162-h785"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_17_1_240312_015428-w1177-h773"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_18_1_240312_015428-w1176-h776"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_19_1_240312_015428-w1178-h779"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_20_1_240312_015428-w1184-h787"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_21_1_240312_015428-w1176-h784"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_22_1_240312_015428-w1183-h787"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_23_1_240312_015428-w1179-h793"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_24_1_240312_015428-w1180-h783"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_25_1_240312_015428-w1185-h783"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_26_1_240314_023731-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_27_1_240314_023731-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_28_1_240312_015428-w1229-h786"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_29_1_240314_023731-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_30_1_240314_023731-w1600-h1070"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_31_1_240314_023731-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_32_1_240314_023731-w1600-h1066"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_33_1_240314_023731-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_32_1_240312_015428-w1184-h786"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_34_1_240312_015428-w1238-h803"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_35_1_240312_015428-w1037-h731"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_37_1_240314_023731-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "floorplan",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16919009_36_3_240312_021917-w1200-h1200"
+      }
+    ],
+    "priceDetails": {
+      "canDisplayPrice": false,
+      "displayPrice": "$2500pw Funished"
+    },
+    "propertyId": "TG-5254-HW",
+    "rentalDetails": {
+      "rentalMethod": "rent",
+      "source": "internal",
+      "canDisplayPrice": false
+    },
+    "seoUrl": "https://www.domain.com.au/7-beau-parade-bonogin-qld-4213-16919009",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=c4TeUwUsETP"
+  },
+  {
+    "objective": "rent",
+    "propertyTypes": ["house"],
+    "status": "recentlyUpdated",
+    "saleMode": "rent",
+    "channel": "residential",
+    "addressParts": {
+      "stateAbbreviation": "qld",
+      "displayType": "fullAddress",
+      "streetNumber": "3",
+      "street": "Fowler Court",
+      "suburb": "Bonogin",
+      "postcode": "4213",
+      "displayAddress": "3 Fowler Court, Bonogin QLD 4213"
+    },
+    "advertiserIdentifiers": {
+      "advertiserType": "agency",
+      "advertiserId": 25351,
+      "contactIds": [1874159],
+      "agentIds": ["A193205"]
+    },
+    "apmIdentifiers": {
+      "suburbId": 3904
+    },
+    "bathrooms": 1.0,
+    "bedrooms": 3.0,
+    "carspaces": 4.0,
+    "dateAvailable": "2024-04-12",
+    "dateUpdated": "2024-04-04T00:29:11.493Z",
+    "dateListed": "2024-03-13T04:37:51Z",
+    "description": "Situated in the lush tropical hinterland of Bonogin Valley, is this beautiful 7.5 acre private rain forest retreat which backs onto the beautiful Bonogin Creek! \n\nSurrounded by an abundance of natural wildlife and nature is this completely private pet friendly property!\n\nThe home features three bedrooms, a large shed with built a in studio which can be used as an office or workspace. \n\nProperties with this much natural beauty are hard to find, if you are looking for your own private rain forest sanctuary then this is a must see! \n\nThis property features; \n\n- Master bedroom with an abundance of large windows to allow the natural light in & frame the lush tropical surrounds, makes this bedroom a dream to fall asleep or wake up to in the mornings listening to the birds in the trees, dual built in robes & air conditioning \n- 2 Remaining bedrooms both with built in robes & air conditioning \n- Bathroom combined with laundry  \n- Property has been freshly painted \n- Brand new Herringbone floors throughout \n- Brand new blinds installed after photos were taken \n- New L.E.D lighting throughout \n- New roof was installed to create high ceilings & allow the natural light to flow in through the windows & skylights \n- Spacious open plan living/dining area with a built in open fire place, perfect for those chilly winter nights to cozy up on the couch with a hot chocolate \n- Air conditioning to the lounge area \n- Large windows throughout the home for plenty of natural light & boasts the outlook of the lush tropical surrounds of nothing but trees for complete privacy \n- The kitchen overlooks the open plan living/dining area, features gas cooking, plenty of cupboard space, breakfast bar making meal time a breeze\n- Step through the large sliding doors which leads to the fantastic undercover alfresco area with timber deck, you will enjoy the serenity to just sit and enjoy all that is on offer\n- Property is situated on 7.5 Acres with the primary half being on flat useable land the other half has bush land with a walking track to the top section \n- Outside there is so much to explore with an abundance of birds & wildlife \n- Your own private summer creek that flows behind the back shed and into the swimming hole\n- A 12m x 7.5m powered shed with built in studio (currently using for storage) \nThe main shed is free to use as you wish. Alternatively, if you would prefer to turn the old one bed studio into an office, you are free to move the stored items into the garage and do whatever you like to the living quarters. \n- Makeshift external fire pit for entertaining\n- The property is on tank water only - no mains, 2 x tanks on the property - 1 x 22,500L & 1 x 5,000L tank both recently serviced with new filters and a new pump (if the tanks are to run out, tenants are required to have these refilled at their cost) \n- Property has gas bottles for gas cooking and the hot water \n- Property is on septic\n- Pet friendly, the property is fully fenced with a dog run fence. No livestock. Cats - to be indoor only given the local wildlife on the property. \n\nTo apply for this property please visit www.2apply.com.au",
+    "features": [
+      "Air conditioning",
+      "Built in wardrobes",
+      "Covered Outdoor Entertainment Area",
+      "Dam",
+      "Balcony / Deck",
+      "Greywater system",
+      "Fireplace(s)",
+      "Shed",
+      "Rainwater storage tank"
+    ],
+    "geoLocation": {
+      "latitude": -28.1543915,
+      "longitude": 153.3348314
+    },
+    "headline": "TRANQUIL RAINFOREST ACERAGE HIDEAWAY ON BONOGIN CREEK! PET FRIENDLY",
+    "id": 16921898,
+    "inspectionDetails": {
+      "inspections": [],
+      "pastInspections": [],
+      "isByAppointmentOnly": true
+    },
+    "isNewDevelopment": false,
+    "media": [
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16646351_1_1_230912_050152-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16646351_2_1_230907_071944-w1600-h975"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16646351_3_1_230912_050152-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16646351_5_1_230912_050152-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16646351_2_1_230912_050152-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16646351_4_1_230912_050152-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16646351_6_1_230912_050152-w1600-h1069"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16646351_7_1_230912_050152-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16646351_8_1_230912_050152-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16646351_9_1_230912_050152-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16646351_10_1_230912_050152-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16646351_4_1_230907_071944-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16646351_1_1_230907_071944-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16646351_5_1_230907_071944-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16646351_7_1_230907_071944-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16646351_6_1_230907_071944-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16646351_15_1_230912_050152-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16646351_17_1_230912_050152-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16646351_18_1_230912_050152-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16646351_3_1_230907_071944-w1601-h977"
+      }
+    ],
+    "priceDetails": {
+      "canDisplayPrice": false,
+      "displayPrice": "$1,000 Per Week"
+    },
+    "propertyId": "YQ-0175-YF",
+    "rentalDetails": {
+      "rentalMethod": "rent",
+      "source": "internal",
+      "canDisplayPrice": false
+    },
+    "seoUrl": "https://www.domain.com.au/3-fowler-court-bonogin-qld-4213-16921898"
+  },
+  {
+    "objective": "rent",
+    "propertyTypes": ["townhouse"],
+    "status": "live",
+    "saleMode": "rent",
+    "channel": "residential",
+    "addressParts": {
+      "stateAbbreviation": "qld",
+      "displayType": "fullAddress",
+      "streetNumber": "8",
+      "unitNumber": "7",
+      "street": "Mylor Street",
+      "suburb": "Nerang",
+      "postcode": "4211",
+      "displayAddress": "7/8 Mylor Street, Nerang QLD 4211"
+    },
+    "advertiserIdentifiers": {
+      "advertiserType": "agency",
+      "advertiserId": 25351,
+      "contactIds": [1612402],
+      "agentIds": ["A4757"]
+    },
+    "apmIdentifiers": {
+      "suburbId": 27484
+    },
+    "bathrooms": 1.0,
+    "bedrooms": 3.0,
+    "carspaces": 2.0,
+    "dateAvailable": "2024-03-22",
+    "dateUpdated": "2024-04-04T03:25:21.853Z",
+    "dateListed": "2024-03-14T03:02:44Z",
+    "description": "This spacious three-bedroom townhouse, nestled in a small block of 12, offers a central location within walking distance of shops, schools, and medical facilities. Overlooking parkland, it provides a delightful play area for children. The bedrooms, featuring raked ceilings and built-in wardrobes, are all located upstairs, along with a convenient two-way bathroom. Downstairs, the  open plan kitchen boasts plenty of cupboard space and a soft timber finish. Step out from the living area onto a charming timber deck, perfect for entertaining while enjoying views of the park.\n\n- 3 bedrooms with built-in wardrobes & ceiling fans\n- Two-way bathroom\n- Modern open plan kitchen with soft timber finish\n- Ample carport space for one vehicle with additional room available\n- Separate laundry with generous storage space and two toilets\n- Fully fenced and low maintenance\n- Split system air-conditioning\n- In-ground pool available for residents' use\n\nSituated in a peaceful complex in central Nerang, this property offers easy access to local amenities, transportation, schools, and the M1 highway.\n\nTo apply for this property, please visit www.2apply.com.au.",
+    "features": ["Air conditioning"],
+    "geoLocation": {
+      "latitude": -27.9890125,
+      "longitude": 153.3306931
+    },
+    "headline": "Central Location",
+    "id": 16923571,
+    "inspectionDetails": {
+      "inspections": [],
+      "pastInspections": [],
+      "isByAppointmentOnly": true
+    },
+    "isNewDevelopment": false,
+    "media": [
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16923571_1_1_240314_030243-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16923571_2_1_240314_030243-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16923571_3_1_240314_030243-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16923571_4_1_240314_030243-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16923571_5_1_240314_030243-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16923571_6_1_240314_030243-w1600-h1066"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16923571_7_1_240314_030243-w1600-h1066"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16923571_8_1_240314_030243-w1600-h1066"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16923571_9_1_240314_030243-w1600-h1066"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16923571_10_1_240314_030243-w1600-h1067"
+      }
+    ],
+    "priceDetails": {
+      "canDisplayPrice": false,
+      "displayPrice": "$620pw"
+    },
+    "propertyId": "HV-1549-LU",
+    "rentalDetails": {
+      "rentalMethod": "rent",
+      "source": "internal",
+      "canDisplayPrice": false
+    },
+    "seoUrl": "https://www.domain.com.au/7-8-mylor-street-nerang-qld-4211-16923571"
+  },
+  {
+    "objective": "rent",
+    "propertyTypes": ["townhouse"],
+    "status": "live",
+    "saleMode": "rent",
+    "channel": "residential",
+    "addressParts": {
+      "stateAbbreviation": "qld",
+      "displayType": "fullAddress",
+      "streetNumber": "26",
+      "unitNumber": "16",
+      "street": "Nikau Crescent",
+      "suburb": "Nerang",
+      "postcode": "4211",
+      "displayAddress": "16/26 Nikau Crescent, Nerang QLD 4211"
+    },
+    "advertiserIdentifiers": {
+      "advertiserType": "agency",
+      "advertiserId": 25351,
+      "contactIds": [1874159],
+      "agentIds": ["A193205"]
+    },
+    "apmIdentifiers": {
+      "suburbId": 27484
+    },
+    "bathrooms": 2.0,
+    "bedrooms": 4.0,
+    "carspaces": 2.0,
+    "dateAvailable": "2024-03-27",
+    "dateUpdated": "2024-03-26T01:21:52.077Z",
+    "dateListed": "2024-03-18T23:41:27Z",
+    "description": "This home is the perfect place to spend your summer relaxing, entertaining and enjoying the beautiful Gold Coast lifestyle. Positioned in an excellent location with high end finishes throughout, this property really does have it all! Freshly painted throughout! \n\n**please note photos are of a similar unit* \n\nFeatures we are loving include:\nDownstairs features\n* Well appointed kitchen with stone benchtops, ample cupboard space, stainless steel appliances & ceramic cooktop\n* Living and dining room opening onto the undercover alfresco area\n* Downstairs powder room\n* Ducted air conditioning/heating throughout\n* Video intercom to security gate\n* Storage area under the stairs\n* Automatic double garage with internal access\n* Floorboards throughout\n* Fully fenced yard\n\nUpstairs:\n* Master Suite with walk in robe, ensuite, ceiling fans & balcony\n* Three remaining double bedrooms, all with built in robes, fans and ducted AC\n* All bedrooms fitted with data points & open onto balcony with privacy screens\n* Second full bathroom with separate bath & shower\n* Living area/teenager retreat/home office\n\n\n*** Please note the electricity billing stays in the Owner's name and you will be billed monthly for power consumption. The solar discount is not passed onto tenants and you will be charged for full power usage with no solar discount***\n\n*** Please note for Open Homes, our Agent will meet you at the complex entry gate - there is no parking available on inspection day in the complex***\n\nThis townhouse is spacious, modern and stylish and is close to plenty of shops, restaurants, and cafes, all with easy M1 access. It won't be available for long\n\nStart your application by visiting www.2apply.com.au",
+    "geoLocation": {
+      "latitude": -28.0055149,
+      "longitude": 153.3167697
+    },
+    "headline": "TOWNHOUSE IN SECURE COMPLEX OVERLOOKING NATURAL BUSHLAND",
+    "id": 16929691,
+    "inspectionDetails": {
+      "inspections": [],
+      "pastInspections": [],
+      "isByAppointmentOnly": true
+    },
+    "isNewDevelopment": false,
+    "media": [
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16883127_1_1_240215_115857-w2250-h1687"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16884457_1_1_240216_062255-w695-h521"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/14727303_4_1_201126_043232-w2250-h1688"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16884457_2_1_240216_062255-w707-h530"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16884457_3_1_240216_062255-w706-h529"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16929691_5_1_240318_114127-w800-h600"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/14029062_11_1_200222_124052-w2250-h1687"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/14029062_18_1_200222_124052-w2250-h1687"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16883127_9_1_240215_115857-w2250-h1687"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16883127_8_1_240215_115857-w2250-h1687"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16330016_8_1_230215_054634-w579-h754"
+      }
+    ],
+    "priceDetails": {
+      "canDisplayPrice": false,
+      "displayPrice": "$850 Per Week"
+    },
+    "propertyId": "EL-9199-NR",
+    "rentalDetails": {
+      "rentalMethod": "rent",
+      "source": "internal",
+      "canDisplayPrice": false
+    },
+    "seoUrl": "https://www.domain.com.au/16-26-nikau-crescent-nerang-qld-4211-16929691"
+  },
+  {
+    "objective": "rent",
+    "propertyTypes": ["apartmentUnitFlat"],
+    "status": "live",
+    "saleMode": "rent",
+    "channel": "residential",
+    "addressParts": {
+      "stateAbbreviation": "qld",
+      "displayType": "fullAddress",
+      "streetNumber": "14",
+      "unitNumber": "7",
+      "street": "Brighton Street",
+      "suburb": "Biggera Waters",
+      "postcode": "4216",
+      "displayAddress": "7/14 Brighton Street, Biggera Waters QLD 4216"
+    },
+    "advertiserIdentifiers": {
+      "advertiserType": "agency",
+      "advertiserId": 25351,
+      "contactIds": [1874159],
+      "agentIds": ["A193205"]
+    },
+    "apmIdentifiers": {
+      "suburbId": 3144
+    },
+    "bathrooms": 1.0,
+    "bedrooms": 2.0,
+    "carspaces": 1.0,
+    "dateAvailable": "2024-04-22",
+    "dateUpdated": "2024-03-21T05:05:11.683Z",
+    "dateListed": "2024-03-21T05:05:11Z",
+    "description": "This immaculate top-floor apartment in a quiet block and a prime location. Nestled in the highly desirable Biggera Waters, this property enjoys a prime location, conveniently close to the Broadwater, local dining establishments, and public transportation. Immerse yourself in a waterfront lifestyle, with seamless access to stunning beaches, parks, and scenic walking trails.\n\nKey Features:\n Air-conditioned open-plan living and dining area\n Bamboo flooring in living and dining area with carpets to bedrooms \n Private Balcony: Unwind on your north-facing balcony\n Modern Kitchen: The sparkling kitchen boasts modern appliances, ample storage, and \n   sleek counter tops\n Two bedrooms equipped with built-in robes and ceiling fans\n Modern bathroom, combined with a convenient laundry area\n Single garage, complete with automatic doors and storage shelves\n\nIntercom access into the building, providing security and peace of mind for residents.\n\nStart your application today by visiting www.2apply.com",
+    "geoLocation": {
+      "latitude": -27.9362534,
+      "longitude": 153.4054514
+    },
+    "headline": "Quiet Two Bedroom Unit in Biggera Waters",
+    "id": 16935201,
+    "inspectionDetails": {
+      "inspections": [],
+      "pastInspections": [],
+      "isByAppointmentOnly": true
+    },
+    "isNewDevelopment": false,
+    "media": [
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16935201_1_1_240321_050511-w800-h600"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16935201_2_1_240321_050511-w800-h600"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16935201_3_1_240321_050511-w800-h600"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16935201_4_1_240321_050511-w800-h600"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16935201_5_1_240321_050511-w800-h600"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16935201_6_1_240321_050511-w800-h600"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16935201_7_1_240321_050511-w2000-h1500"
+      }
+    ],
+    "priceDetails": {
+      "canDisplayPrice": false,
+      "displayPrice": "$550 Per Week"
+    },
+    "propertyId": "PJ-0393-VZ",
+    "rentalDetails": {
+      "rentalMethod": "rent",
+      "source": "internal",
+      "canDisplayPrice": false
+    },
+    "seoUrl": "https://www.domain.com.au/7-14-brighton-street-biggera-waters-qld-4216-16935201"
+  },
+  {
+    "objective": "rent",
+    "propertyTypes": ["duplex"],
+    "status": "live",
+    "saleMode": "rent",
+    "channel": "residential",
+    "addressParts": {
+      "stateAbbreviation": "qld",
+      "displayType": "fullAddress",
+      "streetNumber": "1",
+      "unitNumber": "1",
+      "street": "Schmarr Avenue",
+      "suburb": "Upper Coomera",
+      "postcode": "4209",
+      "displayAddress": "1/1 Schmarr Avenue, Upper Coomera QLD 4209"
+    },
+    "advertiserIdentifiers": {
+      "advertiserType": "agency",
+      "advertiserId": 25351,
+      "contactIds": [1874159],
+      "agentIds": ["A193205"]
+    },
+    "apmIdentifiers": {
+      "suburbId": 37724
+    },
+    "bathrooms": 2.0,
+    "bedrooms": 3.0,
+    "carspaces": 2.0,
+    "dateAvailable": "2024-04-23",
+    "dateUpdated": "2024-03-25T05:29:13.56Z",
+    "dateListed": "2024-03-25T05:29:13Z",
+    "description": "This spacious 3 bedroom duplex is located in an ultra-convenient location in the heart of Upper Coomera! A perfect for that small or growing family. inquire today to be notified of inspection times. Inspections are required to apply. \n\nThis property features:\n\n- Master with en-suite, air-conditioning & walk in robe\n- 2 remaining bedrooms with built in robes & ceiling fans\n- Air conditioned tiled open plan living & dining\n- Kitchen with stainless steel appliances, including dishwasher\n- Cooktop and oven recently updated  \n- Small covered patio area\n- Fully fenced low maintenance yard\n- Pets on application\n- Double automatic lock up garage\n*Furniture not included*\n\nInspections are required to apply\nStart your application today by visiting www.2apply.com.au",
+    "features": [
+      "Air conditioning",
+      "Built in wardrobes",
+      "Ceiling Fans",
+      "Fenced"
+    ],
+    "geoLocation": {
+      "latitude": -27.8622933,
+      "longitude": 153.2964685
+    },
+    "headline": "Three Bedroom Duplex in Upper Coomera!",
+    "id": 16939384,
+    "inspectionDetails": {
+      "inspections": [],
+      "pastInspections": [],
+      "isByAppointmentOnly": true
+    },
+    "isNewDevelopment": false,
+    "media": [
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/15878361_1_1_220511_054529-w1249-h834"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/15878361_11_1_220511_054529-w1247-h832"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/15878361_3_1_220511_054529-w1245-h833"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/15878361_4_1_220511_054529-w1236-h832"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/15878361_2_1_220511_054529-w1246-h834"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/15878361_6_1_220511_054529-w1240-h836"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/15878361_7_1_220511_054529-w1244-h833"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/15878361_8_1_220511_054529-w1247-h836"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/15878361_9_1_220511_054529-w1247-h831"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/15878361_9_1_220511_051641-w794-h596"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/15878361_12_1_220511_054529-w1247-h834"
+      }
+    ],
+    "priceDetails": {
+      "canDisplayPrice": false,
+      "displayPrice": "$680 Per Week"
+    },
+    "propertyId": "XP-1873-BO",
+    "rentalDetails": {
+      "rentalMethod": "rent",
+      "source": "internal",
+      "canDisplayPrice": false
+    },
+    "seoUrl": "https://www.domain.com.au/1-1-schmarr-avenue-upper-coomera-qld-4209-16939384"
+  },
+  {
+    "objective": "rent",
+    "propertyTypes": ["apartmentUnitFlat"],
+    "status": "live",
+    "saleMode": "rent",
+    "channel": "residential",
+    "addressParts": {
+      "stateAbbreviation": "qld",
+      "displayType": "fullAddress",
+      "streetNumber": "4",
+      "unitNumber": "404",
+      "street": "Miles Street",
+      "suburb": "Coolangatta",
+      "postcode": "4225",
+      "displayAddress": "404/4 Miles Street, Coolangatta QLD 4225"
+    },
+    "advertiserIdentifiers": {
+      "advertiserType": "agency",
+      "advertiserId": 25351,
+      "contactIds": [1812726],
+      "agentIds": ["A159692"]
+    },
+    "apmIdentifiers": {
+      "suburbId": 8684
+    },
+    "bathrooms": 1.0,
+    "bedrooms": 1.0,
+    "carspaces": 1.0,
+    "dateAvailable": "2024-03-29",
+    "dateUpdated": "2024-04-02T06:03:31.68Z",
+    "dateListed": "2024-03-26T14:45:48Z",
+    "description": "Situated in the heart of Kirra is the newly built, \"Miles Residences\" \n\nThis stunning one bedroom apartment is perfectly positioned & overlooks the aqua colours of the Pacific Ocean with just a few steps to the beautiful golden beach. \n\nFeaturing a sleek & modern design, this apartment boasts high-end finishes. \nBoasting spacious light filled open plan kitchen, dining & living spaces. \nWith a seamless transition through floor to ceiling glass doors onto your great sized balcony to enjoy the fresh sea breezes with stunning ocean views. \n\nResidents of the apartment complex will enjoy access to a range of luxury amenities, including the spectacular North facing 25 metre residents only pool overlooking Kirra Point, gym, & BBQ area.\n\nThis property features: \n\n- Master bedroom offers plenty of space with walk in robe & floor to ceiling glass doors that open directly onto the balcony \n- Luxury ensuite\n- Separate Multi Purpose Room MPR \n- Modern kitchen with quality appliances, integrated dishwasher, gas cooking, \n- Beautiful stone furnishings & finishes styled throughout\n- Open plan living/dining area \n- Brushed nickel tap ware through out\n- Timber look hybrid flooring throughout the living spaces\n- 100% wool blend carpet in the bedroom\n- Ducted air-conditioning \n- Double Glazed Windows for sound insulation \n- Sheer curtains to be installed \n- Laundry with Dryer \n- 1 Secure Parking space with number plate recognition \n- Storage Cage \n- Pets on application \n\nAmenities\n- 25 metre North facing pool overlooking Kirra Point\n- Gym overlooking the pool\n- Beautiful sub-tropical landscaped BBQ & relaxation areas\n- Secure Bike & Surfboard Store Room located in the basement \n- Located above the new 'Kirra Beach House', shops & restaurants are at your doorstep\n\n*To apply for this property please visit www.2apply.com.au*",
+    "features": [
+      "Balcony / Deck",
+      "Ceiling Fans",
+      "Dishwasher",
+      "Air conditioning",
+      "Heating",
+      "Gas Cooking",
+      "Ocean views",
+      "Secure Parking",
+      "Study",
+      "Walk-in-Robe",
+      "Pets allowed"
+    ],
+    "geoLocation": {
+      "latitude": -28.167972,
+      "longitude": 153.5314483
+    },
+    "headline": "LUXURY COASTAL LIVING,  1 BEDROOM OCEAN VIEW APARTMENT IN \"MILES RESIDENCES'",
+    "id": 16941832,
+    "inspectionDetails": {
+      "inspections": [],
+      "pastInspections": [],
+      "isByAppointmentOnly": true
+    },
+    "isNewDevelopment": false,
+    "media": [
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16941832_1_1_240326_024547-w1000-h664"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16941832_2_1_240326_024547-w1600-h1071"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16941832_3_1_240326_024547-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16941832_4_1_240326_024547-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16941832_5_1_240326_024546-w1600-h1069"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16941832_6_1_240326_024547-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16941832_7_1_240326_024547-w1600-h1069"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16941832_8_1_240326_024547-w1279-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16941832_9_1_240326_024547-w1000-h664"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16941832_10_1_240326_024547-w1000-h664"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16941832_11_1_240326_024547-w1000-h664"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16941832_12_1_240326_024547-w1000-h664"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16941832_13_1_240326_024547-w1000-h664"
+      }
+    ],
+    "priceDetails": {
+      "canDisplayPrice": false,
+      "displayPrice": "$850 per week"
+    },
+    "rentalDetails": {
+      "rentalMethod": "rent",
+      "source": "internal",
+      "canDisplayPrice": false
+    },
+    "seoUrl": "https://www.domain.com.au/404-4-miles-street-coolangatta-qld-4225-16941832"
+  },
+  {
+    "objective": "rent",
+    "propertyTypes": ["house"],
+    "status": "live",
+    "saleMode": "rent",
+    "channel": "residential",
+    "addressParts": {
+      "stateAbbreviation": "qld",
+      "displayType": "fullAddress",
+      "streetNumber": "18",
+      "street": "Huxley Court",
+      "suburb": "Pacific Pines",
+      "postcode": "4211",
+      "displayAddress": "18 Huxley Court, Pacific Pines QLD 4211"
+    },
+    "advertiserIdentifiers": {
+      "advertiserType": "agency",
+      "advertiserId": 25351,
+      "contactIds": [1874159],
+      "agentIds": ["A193205"]
+    },
+    "apmIdentifiers": {
+      "suburbId": 29284
+    },
+    "bathrooms": 2.0,
+    "bedrooms": 4.0,
+    "carspaces": 2.0,
+    "dateAvailable": "2024-05-08",
+    "dateUpdated": "2024-03-27T05:55:01.27Z",
+    "dateListed": "2024-03-27T05:55:01Z",
+    "description": "This stunning four bedroom, two bathroom home is situated on a large block with breathtaking hinterland views, offering you the perfect blend of tranquility and luxury. With its high ceilings, Colorbond roof and striking features throughout, this home is sure to impress from the moment you step inside.\n\nThe heart of the home is the stylish kitchen, featuring modern appliances, ample bench and storage space, and a breakfast bar. The adjacent dining and living areas provide a comfortable and relaxing space for everyday living. The home features comfortable lounge/media room, ideal for movie nights with the family or entertaining guests. \n\nStep outside and discover the expansive undercovered entertainment area, perfect for hosting barbecues, outdoor dining, or simply taking in the breathtaking hinterland views. With plenty of room for a pool, this outdoor space is ideal for those who love to entertain or just relax with family and friends - ample space for the kids and pets to play.\n\nLocated in a quiet and peaceful neighbourhood, this home is just a short drive from local shops, cafes, and schools. With nothing left to do but move in and start enjoying the dream family home you deserve, don't miss out on this opportunity.\n\nFeatures you will love:\n- Four light filled spacious bedrooms all with built-in-robes, ceiling fans and ducted air\n- Master bedroom with ensuite, floor to ceiling tiles with, vanity and frameless glass shower screen\n- Main bathroom with modern bath and seperate shower and toilet\n- Modern well equipped kitchen with electric oven and new cooktop, dishwater, pantry and skylight\n- Oversized open plan main living/dining area opening out to the entertaining area\n- Large covered entertaining and barbeque area with stunning views of the hinterland\n- Landscaped gardens with a gorgeous feature sandstone retaining wall\n- Double lock-up remote garage with internal access\n- Full size laundry room with plenty of cupboard and bench space with side access\n- Garden shed for tools and storage\n\nAdditional Features:\n- Multiple living and dining areas\n- Ceiling fans throughout\n- Tiled throughout with plush carpets to all bedroom and media/lounge room\n- Zoned, ducted reverse cycle air conditioning\n- Ducted vacuum system\n- Plantation Shutters throughout\n- Private with stunning hinterland views \n- Gate Side access\n- 5KW Solar System - 24 panels\n- Security camera system\n- Crimsafe security screens on all window and doors\n- Fully fenced and private large 1,175m2 block\n- 2,000ltr rainwater tank\n\nThere is an endless list of impressive features on offer with this property, and it is a must-see to truly appreciate the immaculate condition and outstanding value for money.  This property boasts a convenient central location, with schools, shops, and amenities only a few minutes away, and quick access to the M1 motorway.\n\nStart your application by visiting www.2apply.com",
+    "features": [
+      "Air conditioning",
+      "Bar",
+      "Barbecue",
+      "Broadband internet access",
+      "Built in wardrobes",
+      "Ceiling Fans",
+      "Covered Outdoor Entertainment Area",
+      "Dishwasher",
+      "Heating",
+      "Ducted vacuum system",
+      "Electric Hot Water Service",
+      "Fenced",
+      "Fully fenced",
+      "Garden Shed",
+      "Media Room",
+      "Outdoor Entertaining",
+      "Remote Garage",
+      "Safety Switch",
+      "Shed",
+      "Side Access",
+      "Solar panels",
+      "Undercover outdoor area",
+      "Vacuum System",
+      "Walk-in-Robe",
+      "Rainwater storage tank"
+    ],
+    "geoLocation": {
+      "latitude": -27.9302091,
+      "longitude": 153.3174224
+    },
+    "headline": "Magnificent Family Home",
+    "id": 16943398,
+    "inspectionDetails": {
+      "inspections": [],
+      "pastInspections": [],
+      "isByAppointmentOnly": true
+    },
+    "isNewDevelopment": false,
+    "landAreaSqm": 1175.0,
+    "media": [
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_1_1_240327_055455-w800-h533"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_2_1_240327_055455-w800-h533"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_3_1_240327_055455-w6000-h4000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_4_1_240327_055455-w800-h533"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_5_1_240327_055455-w800-h533"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_6_1_240327_055455-w6000-h4000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_7_1_240327_055455-w6000-h4000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_8_1_240327_055455-w6000-h4000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_9_1_240327_055455-w6000-h4000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_10_1_240327_055455-w6000-h4000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_11_1_240327_055455-w6000-h4000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_12_1_240327_055455-w6000-h4000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_13_1_240327_055455-w6000-h4000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_14_1_240327_055455-w6000-h4000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_15_1_240327_055455-w6000-h4000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_16_1_240327_055455-w6000-h4000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_17_1_240327_055455-w6000-h4000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_18_1_240327_055455-w6005-h4001"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_19_1_240327_055455-w6000-h4000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_20_1_240327_055455-w6000-h4000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_21_1_240327_055455-w6000-h4000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_22_1_240327_055455-w6000-h4000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_23_1_240327_055455-w800-h533"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_24_1_240327_055455-w800-h533"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_25_1_240327_055455-w800-h533"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_26_1_240327_055455-w4032-h3024"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_27_1_240327_055455-w4032-h3024"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_28_1_240327_055455-w4032-h3024"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_29_1_240327_055455-w6002-h4005"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16943398_30_1_240327_055455-w4500-h3000"
+      }
+    ],
+    "priceDetails": {
+      "canDisplayPrice": false,
+      "displayPrice": "$980 Per Week"
+    },
+    "propertyId": "QU-8184-YW",
+    "rentalDetails": {
+      "rentalMethod": "rent",
+      "source": "internal",
+      "canDisplayPrice": false
+    },
+    "seoUrl": "https://www.domain.com.au/18-huxley-court-pacific-pines-qld-4211-16943398"
+  },
+  {
+    "objective": "rent",
+    "propertyTypes": ["duplex"],
+    "status": "live",
+    "saleMode": "rent",
+    "channel": "residential",
+    "addressParts": {
+      "stateAbbreviation": "qld",
+      "displayType": "fullAddress",
+      "streetNumber": "3",
+      "unitNumber": "1",
+      "street": "Winton Terrace",
+      "suburb": "Varsity Lakes",
+      "postcode": "4227",
+      "displayAddress": "1/3 Winton Terrace, Varsity Lakes QLD 4227"
+    },
+    "advertiserIdentifiers": {
+      "advertiserType": "agency",
+      "advertiserId": 25351,
+      "contactIds": [1874159],
+      "agentIds": ["A193205"]
+    },
+    "apmIdentifiers": {
+      "suburbId": 38054
+    },
+    "bathrooms": 2.0,
+    "bedrooms": 4.0,
+    "buildingAreaSqm": 169.0,
+    "carspaces": 2.0,
+    "dateAvailable": "2024-04-12",
+    "dateUpdated": "2024-03-28T06:42:47.85Z",
+    "dateListed": "2024-03-28T06:42:47Z",
+    "description": "Larger than a lot of houses, this townhouse would be hard to beat - they don't make them like this anymore! Tucked away in a quiet cul-de-sac in Varsity Lakes, is this huge 4 bedroom, 2 bathroom townhouse. Boasting open plan living and dining and a large kitchen with a breakfast bar, there is plenty of room for the whole family. Off the living room, the bi-fold doors open up to a tropical oasis - a beautiful entertaining area. \n\nUpstairs, the master bedroom is extra-large with a private ensuite and walk in robe You will find the best views of sunset throughout the home. The other 3 bedrooms are also very spacious with built in robes and ceiling fans. The upstairs living area is large enough to house a separate living area and office space. \n\nWhat you will love: \n- Bright and airy open plan living, kitchen and dining area\n- Tropical entertaining area\n- Huge Master bedroom with ensuite and walk-in robe\n- 3 more spacious bedrooms, with built in robes\n- Large upstairs living area\n- All rooms with beautiful leafy outlooks\n- Double lock up garage & plenty of storage space\n- Private and separated from adjoining townhouses\n\nCentrally located, spacious, and priced to sell, this beautiful home won't last long call to book your inspection today!\n\nStart your application by visiting www.2apply.com.au",
+    "features": ["Air conditioning"],
+    "geoLocation": {
+      "latitude": -28.0787227,
+      "longitude": 153.4067397
+    },
+    "headline": "Central Varsity Home",
+    "id": 16945786,
+    "inspectionDetails": {
+      "inspections": [],
+      "pastInspections": [],
+      "isByAppointmentOnly": true
+    },
+    "isNewDevelopment": false,
+    "landAreaSqm": 118.0,
+    "media": [
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16945786_1_1_240328_064247-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16945786_2_1_240328_064247-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16945786_3_1_240328_064247-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16945786_4_1_240328_064247-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16945786_5_1_240328_064247-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16945786_6_1_240328_064247-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16945786_7_1_240328_064247-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16945786_8_1_240328_064247-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16945786_9_1_240328_064247-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16945786_10_1_240328_064247-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16945786_11_1_240328_064247-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16945786_12_1_240328_064247-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16945786_13_1_240328_064247-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16945786_14_1_240328_064247-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16945786_15_1_240328_064247-w1600-h1066"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16945786_16_1_240328_064247-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16945786_17_1_240328_064247-w848-h1200"
+      }
+    ],
+    "priceDetails": {
+      "canDisplayPrice": false,
+      "displayPrice": "$850 Per Week"
+    },
+    "propertyId": "RI-4653-YA",
+    "rentalDetails": {
+      "rentalMethod": "rent",
+      "source": "internal",
+      "canDisplayPrice": false
+    },
+    "seoUrl": "https://www.domain.com.au/1-3-winton-terrace-varsity-lakes-qld-4227-16945786"
+  },
+  {
+    "objective": "rent",
+    "propertyTypes": ["house"],
+    "status": "live",
+    "saleMode": "rent",
+    "channel": "residential",
+    "addressParts": {
+      "stateAbbreviation": "qld",
+      "displayType": "fullAddress",
+      "streetNumber": "23",
+      "street": "Hillsborough Close",
+      "suburb": "Robina",
+      "postcode": "4226",
+      "displayAddress": "23 Hillsborough Close, Robina QLD 4226"
+    },
+    "advertiserIdentifiers": {
+      "advertiserType": "agency",
+      "advertiserId": 25351,
+      "contactIds": [1812726],
+      "agentIds": ["A159692"]
+    },
+    "apmIdentifiers": {
+      "suburbId": 31824
+    },
+    "bathrooms": 2.0,
+    "bedrooms": 3.0,
+    "carspaces": 2.0,
+    "dateAvailable": "2024-04-04",
+    "dateUpdated": "2024-03-28T13:28:11.59Z",
+    "dateListed": "2024-03-28T12:31:19Z",
+    "description": "This charming home seamlessly combines comfort & style. \n\nNestled in a peaceful street in Robina & a short walk to the Palmer golf course, this property offers a perfect blend of convenience & tranquility. \n\nThis property features; \n\n- Master bedroom with walk in robe & renovated ensuite \n- 2 Remaining bedrooms with built in robes & ceiling fans \n- Main bathroom with seperate shower & bath \n- Open plan living/dining space \n- Carpeted lounge area \n- Air-conditioning to dining area \n- Ceiling fans \n- Kitchen with plenty of cupboard space & appliances including dishwasher \n- Private fully fenced yard with room for the kids or pets to play\n- Patio area \n- Double automatic lock up garage plus driveway & off street parking\n- Great location, close to all amenties \n- Pet friendly\n*Property is unfurnished*\n\n*To apply for this property please visit www.2apply.com.au*",
+    "energyEfficiencyRating": 0,
+    "features": [
+      "Air conditioning",
+      "Built in wardrobes",
+      "Ceiling Fans",
+      "Covered Outdoor Entertainment Area",
+      "Dishwasher",
+      "Fully fenced",
+      "Walk-in-Robe",
+      "Pets allowed"
+    ],
+    "geoLocation": {
+      "latitude": -28.0594091,
+      "longitude": 153.3938387
+    },
+    "headline": "3 BEDROOM CHARMING HOME IN PERFECT LOCATION!",
+    "id": 16946045,
+    "inspectionDetails": {
+      "inspections": [],
+      "pastInspections": [],
+      "isByAppointmentOnly": true
+    },
+    "isNewDevelopment": false,
+    "landAreaSqm": 457.0,
+    "media": [
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946045_1_1_240328_123119-w836-h800"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946045_2_1_240328_123119-w1200-h800"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946045_3_1_240328_123119-w1200-h801"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946045_4_1_240328_123119-w1200-h799"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946045_5_1_240328_123119-w1200-h800"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946045_6_1_240328_123119-w1200-h800"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946045_7_1_240328_123119-w1200-h800"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946045_8_1_240328_123119-w1200-h800"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946045_9_1_240328_123119-w1200-h800"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946045_10_1_240328_123119-w1200-h800"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946045_11_1_240328_123119-w1200-h800"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946045_12_1_240328_123119-w1200-h800"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946045_13_1_240328_123119-w1200-h800"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946045_14_1_240328_123119-w1200-h800"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946045_15_1_240328_123119-w1200-h900"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946045_16_1_240328_123119-w1200-h900"
+      },
+      {
+        "category": "image",
+        "type": "floorplan",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946045_17_3_240328_123119-w1200-h1200"
+      }
+    ],
+    "priceDetails": {
+      "canDisplayPrice": false,
+      "displayPrice": "$950 per week"
+    },
+    "propertyId": "AU-7596-DH",
+    "rentalDetails": {
+      "rentalMethod": "rent",
+      "source": "internal",
+      "canDisplayPrice": false
+    },
+    "seoUrl": "https://www.domain.com.au/23-hillsborough-close-robina-qld-4226-16946045"
+  },
+  {
+    "objective": "rent",
+    "propertyTypes": ["townhouse"],
+    "status": "live",
+    "saleMode": "rent",
+    "channel": "residential",
+    "addressParts": {
+      "stateAbbreviation": "qld",
+      "displayType": "fullAddress",
+      "streetNumber": "4",
+      "unitNumber": "37",
+      "street": "University Drive",
+      "suburb": "Robina",
+      "postcode": "4226",
+      "displayAddress": "37/4 University Drive, Robina QLD 4226"
+    },
+    "advertiserIdentifiers": {
+      "advertiserType": "agency",
+      "advertiserId": 25351,
+      "contactIds": [1812726],
+      "agentIds": ["A159692"]
+    },
+    "apmIdentifiers": {
+      "suburbId": 31824
+    },
+    "bathrooms": 3.0,
+    "bedrooms": 4.0,
+    "carspaces": 2.0,
+    "dateAvailable": "2024-04-04",
+    "dateUpdated": "2024-03-28T13:27:20.547Z",
+    "dateListed": "2024-03-28T13:23:38Z",
+    "description": "4 bedroom light filled, immaculate townhouse! \n\nSpread over two levels, this property has been thoughtfully designed with a floor plan that offers exceptional privacy & a truly impressive indoor/outdoor flow for that Queensland lifestyle we all love.\n\nWith a low maintenance, private courtyard which incorporates a large pergola, beautiful tropical gardens & sandstone paving you'll feel like your on holidays every day. \n\nThe gourmet kitchen is perfectly positioned within the home & overlooks your private courtyard. \nDownstairs boasts the 4th bedroom as well as a bathroom which offers a dual living opportunity or perfect for a teenage retreat. \n\nThe bedrooms are spacious, have mirrored built in robes & ceiling fans. \n\nBond University is at your door step, Varsity Lakes CBD minutes away and only a short drive to Robina Town Centre and popular Gold Coast beaches, this location is a winner.\n\nThis property features: \n\n- Large master bedroom with ensuite & balcony\n- 2 generous bedrooms upstairs with built in robes & ceiling fans\n- Spacious open plan living/dining area\n- Central gourmet kitchen with appliances including dishwasher\n- 3 impressive bathrooms \n- Private courtyard with pergola, sandstone paving, water feature.\n- Downstairs features 4th bedroom or 2nd living area with own bathroom\n- Potential for dual living with a downstairs bedroom & bathroom\n- Pets on application \n- Low maintenance gardens\n- Double automatic garage + 2 parking spaces in driveway\n*Property is unfurnished*\n\nCOMPLEX INCLUDES\n- Impressive resort pool plus kiddies pool and spa\n- BBQ Area\n- Function/Community room\n- 25 metre Lap pool\n- Gym & Sauna\n- Secure complex \n\n*To apply for this property please visit www.2apply.com.au*",
+    "features": [
+      "Air conditioning",
+      "Balcony / Deck",
+      "Built in wardrobes",
+      "Garden / Courtyard",
+      "Covered Outdoor Entertainment Area",
+      "Dishwasher",
+      "Gym",
+      "Outdoor Entertaining",
+      "Swimming Pool",
+      "Remote Garage",
+      "Secure Parking",
+      "Pets allowed"
+    ],
+    "geoLocation": {
+      "latitude": -28.0680035,
+      "longitude": 153.4154411
+    },
+    "headline": "4 BEDROOM TOWNHOUSE WITH PRIVATE TROPICAL OASIS",
+    "id": 16946052,
+    "inspectionDetails": {
+      "inspections": [],
+      "pastInspections": [],
+      "isByAppointmentOnly": true
+    },
+    "isNewDevelopment": false,
+    "landAreaSqm": 135.0,
+    "media": [
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946052_1_1_240328_012337-w1200-h900"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946052_2_1_240328_012337-w1200-h900"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946052_3_1_240328_012337-w1200-h900"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946052_4_1_240328_012337-w1200-h900"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946052_5_1_240328_012337-w1200-h900"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946052_6_1_240328_012337-w1200-h900"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946052_7_1_240328_012337-w1200-h900"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946052_8_1_240328_012337-w1200-h900"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946052_9_1_240328_012337-w1200-h900"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946052_10_1_240328_012337-w1200-h900"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946052_11_1_240328_012337-w1200-h900"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946052_12_1_240328_012337-w1200-h900"
+      },
+      {
+        "category": "image",
+        "type": "floorplan",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946052_13_3_240328_012337-w1200-h1200"
+      }
+    ],
+    "priceDetails": {
+      "canDisplayPrice": false,
+      "displayPrice": "$880 per week"
+    },
+    "propertyId": "YQ-6361-NE",
+    "rentalDetails": {
+      "rentalMethod": "rent",
+      "source": "internal",
+      "canDisplayPrice": false
+    },
+    "seoUrl": "https://www.domain.com.au/37-4-university-drive-robina-qld-4226-16946052"
+  },
+  {
+    "objective": "rent",
+    "propertyTypes": ["house"],
+    "status": "live",
+    "saleMode": "rent",
+    "channel": "residential",
+    "addressParts": {
+      "stateAbbreviation": "qld",
+      "displayType": "fullAddress",
+      "streetNumber": "529",
+      "street": "The Panorama",
+      "suburb": "Tallai",
+      "postcode": "4213",
+      "displayAddress": "529 The Panorama, Tallai QLD 4213"
+    },
+    "advertiserIdentifiers": {
+      "advertiserType": "agency",
+      "advertiserId": 25351,
+      "contactIds": [1812726],
+      "agentIds": ["A159692"]
+    },
+    "apmIdentifiers": {
+      "suburbId": 35234
+    },
+    "bathrooms": 5.0,
+    "bedrooms": 6.0,
+    "buildingAreaSqm": 557.0,
+    "carspaces": 8.0,
+    "dateAvailable": "2024-04-05",
+    "dateUpdated": "2024-04-02T07:28:43.467Z",
+    "dateListed": "2024-03-29T05:29:44Z",
+    "description": "Situated high on THE PANORAMA is this exclusive hilltop address in TALLAI!\nWithin the Gold Coast's spectacular Hinterland, you find the regal ANNARBOR, which offers a magnificently elegant private 7.4* acre oasis!!\n\nTHIS HOUSE REALLY HAS TO BE SEEN IN PERSON TO BE ABLE TO APPRECIATE ALL ITS BEAUTY & UNIQUE FEATURES THE HOME HAS TO OFFER. \nCONTACT KIARA TODAY ON 0426 943 926 FOR A PRIVATE VIEWING\n\nThis grand & elegant all brick manor, with its extraordinarily breathtaking panoramic views over the entire Gold Coast \"views that seem close enough to touch\" is the ultimate in luxury, privacy, tranquillity & convenience. \n\nA remarkable home offering beautiful architectural sophistication & classic elegance, all with an ambience ideal for entertaining at a grand level, yet with a warmth that is perfect for family living. \n\nThe gracious, two story entry with a sweeping staircase draws you into a layout thats perfect for entertaining. \nSeamless flow which opens to both the banquet sized dining room & to an elegant formal living room with floor to ceiling fireplace. \n\nFrench doors entice you out to the terrace which overlooks a magnificently landscaped gardens, including an impressive deck, picturesque pool house, opulent pool, outdoor spa,  full-size tennis court & two dams!\n\nThe gourmet kitchen, with its beautiful bay window, captures the remarkable views & will awaken your inner chef with its centre island appliances, ample cupboard & bench space plus a large additional dining area. \n\nThe south wing offers the potential of DUAL LIVING if desired, or a fantastic guest wing!\nFeaturing a full 2nd master bedroom with en-suite which is overlooking a tranquil pond & water feature, complete with a trickling waterfall. French doors tempt you to the terrace, which lead out to the stunning views. \n\nUp the sweeping staircase is the master bedroom offering the ultimate retreat! \nBoasting an opulent en-suite, fabulous walk-in-robe + separate dressing room / study. \n\nThere are two additional extremely spacious bedrooms, each with their own en-suite, & a magnificent balcony that allows you to enjoy outstanding views of the Gold Coast.\n\nThe grounds of this estate feature luxurious lawns, landscaped gardens, exotic trees & magical Eucalyptus forest. \n\nThe pièce de résistance of the outdoor space is the 22 x 8 m wooden deck with uninterrupted 180 degree views, pool house, in-ground pool with diving board, spa & tennis court.\n\nOn The Panorama, the houses are ideally placed with distance from one other, giving you both security & confidentiality.\n\n\nGrand amenities & features of the property: \n\n- Situated on 7.4 Acres* of private land \n- Full brick construction\n- Stunning 180 degree Gold Coast views\n- 18m* fully tiled deep pool with diving board *Pool maintenance included in the rent, tenant to pay cost of chemicals* \n- Picturesque pool house with kitchenette & powder room\n- Outdoor spa \n- Manicured, landscaped gardens *Lawns & garden maintenance included in rent*\n- Full size tennis court & feature sitting gazebo \n- Oversized 4 x bay car garage + additional parking for 4 cars to driveway/entrance \n- Separate storeroom\n- 5 x 20,000* L water tanks\n- Pet friendly with a dedicated dog run area \n- Ducted cooling/heating \n- Large balcony facing a beautiful view stretching from the city to the hinterland\n- Impressive outdoor entertainment area \n- Fully fenced with gated access & intercom \n- Security cameras \n- Full bar area in the garage with fridges \n- Covered entertainment area complete with built in BBQ area + Pizza oven & fridges \n- Games room \n- 6 Bedrooms in total all featuring their own ensuite except 1 room \n- 5 Bathrooms in total \n- Brand new carpet to be installed to formal lounge area \n\nGROUND FLOOR: \n- Gracious entry with sweeping staircase\n- Formal lounge with fireplace & French doors\n- Formal banquet size dining area \n- Elegant powder room\n- Gourmet kitchen, centre island, brand new appliances, ample cupboard & bench space with amazing views right from your kitchen whilst you cook\n- Dining area with French doors opening to the stunning outdoors\n- 2 family rooms with a separate bathroom\n- 2nd master bedroom with full en-suite & dressing room\n- Additional bedroom / study\n- Wine storeroom\n- Gorgeous, spacious laundry\n\nSECOND FLOOR: \n- Master bedroom with opulent en-suite, fabulous walk-in-robe, separate dressing room / study\n- 2 additional large bedrooms each with their own en-suite\n- Covered balcony spanning the entire second level\n\n\nANNARBOR is a beautifully designed home for those of discerning tastes. \nDont miss your chance to have it all, in a one-of-a-kind showplace on sought-after The Panorama, Tallai.\n\nTallai is conveniently located, just minutes away from Somerset College, Robina Town Centre, the M1 & the Gold Coast Airport is just 45* minutes away.\n\n*Property is unfurnished* \n\n*To apply for this property please visit www.2apply.com.au*",
+    "features": [
+      "Built in wardrobes",
+      "Covered Outdoor Entertainment Area",
+      "Dam",
+      "Dishwasher",
+      "Air conditioning",
+      "Heating",
+      "Fireplace",
+      "Fully fenced",
+      "Indoor entertainment area",
+      "Intercom",
+      "Swimming Pool",
+      "Remote Garage",
+      "Secure Parking",
+      "Security Cameras",
+      "Outdoor Spa",
+      "Tennis Court",
+      "Verandah",
+      "Walk-in-Robe",
+      "Pets allowed",
+      "City Views"
+    ],
+    "geoLocation": {
+      "latitude": -28.0549263,
+      "longitude": 153.3067611
+    },
+    "headline": "EXCLUSIVE HILLTOP \"ANNARBOR\" MANSION WITH BREATHTAKING PANORAMIC VIEWS!",
+    "id": 16946149,
+    "inspectionDetails": {
+      "inspections": [],
+      "pastInspections": [],
+      "isByAppointmentOnly": true
+    },
+    "isNewDevelopment": false,
+    "landAreaSqm": 29946.737508,
+    "media": [
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_1_1_240329_052942-w1598-h905"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_2_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_3_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_4_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_5_1_240329_052942-w2362-h1575"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_6_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_7_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_8_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_9_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_10_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_11_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_12_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_13_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_14_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_15_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_16_1_240329_052942-w2234-h1507"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_17_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_20_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_21_1_240329_052942-w2362-h1575"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_22_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_23_1_240329_052942-w6720-h4480"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_24_1_240329_052942-w1200-h800"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_26_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_27_1_240329_052942-w2362-h1575"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_28_1_240329_052942-w1600-h1068"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_29_1_240329_052942-w2362-h1575"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_30_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_31_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_35_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_37_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_38_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_41_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_42_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_43_1_240329_052942-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_45_1_240329_052942-w1600-h1066"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_46_1_240329_052942-w1600-h1066"
+      },
+      {
+        "category": "image",
+        "type": "floorplan",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16946149_48_3_240329_052942-w1200-h1200"
+      }
+    ],
+    "priceDetails": {
+      "canDisplayPrice": false,
+      "displayPrice": "$5,000 per week"
+    },
+    "propertyId": "IB-0102-JF",
+    "rentalDetails": {
+      "rentalMethod": "rent",
+      "source": "internal",
+      "canDisplayPrice": false
+    },
+    "seoUrl": "https://www.domain.com.au/529-the-panorama-tallai-qld-4213-16946149"
+  },
+  {
+    "objective": "rent",
+    "propertyTypes": ["apartmentUnitFlat"],
+    "status": "new",
+    "saleMode": "rent",
+    "channel": "residential",
+    "addressParts": {
+      "stateAbbreviation": "qld",
+      "displayType": "fullAddress",
+      "streetNumber": "17-19",
+      "unitNumber": "2",
+      "street": "Markeri Street",
+      "suburb": "Mermaid Beach",
+      "postcode": "4218",
+      "displayAddress": "2/17-19 Markeri Street, Mermaid Beach QLD 4218"
+    },
+    "advertiserIdentifiers": {
+      "advertiserType": "agency",
+      "advertiserId": 25351,
+      "contactIds": [1612402],
+      "agentIds": ["A4757"]
+    },
+    "apmIdentifiers": {
+      "suburbId": 22794
+    },
+    "bathrooms": 2.0,
+    "bedrooms": 2.0,
+    "carspaces": 2.0,
+    "dateAvailable": "2024-04-12",
+    "dateUpdated": "2024-04-02T04:33:59.23Z",
+    "dateListed": "2024-04-02T04:33:59Z",
+    "description": "Nestled in the heart of vibrant Mermaid Beach, this fully renovated ground floor garden apartment offers the epitome of modern coastal living. Boasting sleek design and ample space, this private sanctuary is ideal for those seeking both comfort and style. \n\nProperty Features:\n- 2 bedrooms (master with ensuite and balcony access)\n- 2 stylish bathrooms/combined laundry\n- Quality kitchen with plumbed fridge\n- Open plan air-conditioned living and dining area\n- Spacious balcony, courtyard, and deck for entertaining\n- Ceiling fans throughout\n- Generous outdoor garden space\n- 2 separate secure basement car parking spaces with storage\n\nHighlights:\n- Recently upgraded with modern finishes\n- Contemporary elegance with clean lines and neutral tones\n- Conveniently located less than 500m from the golden sands of Mermaid Beach\n- Situated in a boutique walk-up block of only 12 apartments\n- Close proximity to Mermaid Plaza, future Light Rail Station, restaurants, cafes, and more\n- Easy access to parks, recreational areas, and outdoor activities\n\nLocation:\n- Beach: 500m\n- Mermaid Plaza: 100m (Woolworths, Chemist, cafes, and more)\n- Future Mermaid Light Rail Station (completion 2025): 150m\n- Nobby Beach Village: 1.1km\n- Broadbeach, Pacific Fair, Star Casino: Less than 2km\n- Surfers Paradise: 7 minutes' drive north\n- Burleigh Heads Village, Beach, National Park: 7 minutes' drive south\n- Gold Coast Airport: 20 minutes by car\n\nApplications accepted via 2apply.com.au \n\nLive the coastal lifestyle you've always dreamed of in Mermaid Beach!",
+    "geoLocation": {
+      "latitude": -28.0486294,
+      "longitude": 153.4341011
+    },
+    "headline": "Welcome to Your Coastal Oasis in Vibrant Mermaid Beach!",
+    "id": 16948232,
+    "inspectionDetails": {
+      "inspections": [],
+      "pastInspections": [],
+      "isByAppointmentOnly": true
+    },
+    "isNewDevelopment": false,
+    "media": [
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019040893_3_1_240208_061742-w4000-h2667"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019040893_7_1_240208_061742-w4000-h2667"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019040893_4_1_240208_061742-w4000-h2667"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16948232_4_1_240402_043358-w4000-h2667"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16948232_5_1_240402_043358-w4000-h2667"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019040893_14_1_240208_061742-w4000-h2667"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019040893_9_1_240208_061742-w4000-h2667"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019040893_10_1_240208_061742-w4000-h2667"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16948232_9_1_240402_043358-w4000-h2667"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019040893_11_1_240208_061742-w4000-h2667"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019040893_12_1_240208_061742-w4000-h2667"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16948232_12_1_240402_043358-w4000-h2667"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019040893_5_1_240208_061742-w4000-h2667"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16948232_14_1_240402_043358-w4000-h2667"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019040893_6_1_240208_061742-w4000-h2667"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019040893_8_1_240208_061742-w4000-h3000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019040893_2_1_240208_061742-w4000-h2667"
+      },
+      {
+        "category": "image",
+        "type": "floorplan",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2019040893_27_3_240211_111611-w1200-h1200"
+      }
+    ],
+    "priceDetails": {
+      "canDisplayPrice": false,
+      "displayPrice": "$825pw"
+    },
+    "propertyId": "WG-8795-HM",
+    "rentalDetails": {
+      "rentalMethod": "rent",
+      "source": "internal",
+      "canDisplayPrice": false
+    },
+    "seoUrl": "https://www.domain.com.au/2-17-19-markeri-street-mermaid-beach-qld-4218-16948232"
+  },
+  {
+    "objective": "rent",
+    "propertyTypes": ["house"],
+    "status": "new",
+    "saleMode": "rent",
+    "channel": "residential",
+    "addressParts": {
+      "stateAbbreviation": "qld",
+      "displayType": "fullAddress",
+      "streetNumber": "14",
+      "street": "Wisconsin Street",
+      "suburb": "Varsity Lakes",
+      "postcode": "4227",
+      "displayAddress": "14 Wisconsin Street, Varsity Lakes QLD 4227"
+    },
+    "advertiserIdentifiers": {
+      "advertiserType": "agency",
+      "advertiserId": 25351,
+      "contactIds": [1612402],
+      "agentIds": ["A4757"]
+    },
+    "apmIdentifiers": {
+      "suburbId": 38054
+    },
+    "bathrooms": 2.0,
+    "bedrooms": 4.0,
+    "carspaces": 2.0,
+    "dateAvailable": "2024-05-10",
+    "dateUpdated": "2024-04-02T07:59:41.187Z",
+    "dateListed": "2024-04-02T07:59:41Z",
+    "description": "Discover the epitome of comfortable living in this single-level, specious home nestled in the sought-after suburb of Varsity Lakes. Boasting excellent original presentation and recent bathroom upgrades, this residence offers a perfect blend of style and functionality. \n\nProperty Features \n\nKitchen:\n- Laminate Bench Tops\n- Ample Cabinetry and Storage Space\n- Dishwasher\n- Double Sink\n\nLiving Areas:\n- Carpeted Lounge Room with Ceiling Fan\n- Tiled Family Room with Direct Backyard Access\n\nBedrooms:\n- Master Bedroom with Air Conditioning, Walk-In Robe, and Ensuite\n- Three Additional Bedrooms with Ceiling Fans and Built-In Robes\n\nBathrooms:\n- Newly Renovated Ensuite with Rain Shower\n- Guest Bathroom with Separate Toilet and Rain Shower\n\nUtilities:\n- Separate Laundry\n\nOutdoors:\n- Side and Backyard Spaces\n- Generous Front Yard\n- Outdoor Patio Ideal for Entertaining\n\nFeatures \n- Air Conditioning\n- Built-In Robes\n- Security Screens\n- Fully Fenced\n\nSuburb Profile - Varsity Lakes:\nLocated in several School Catchments and less than a seven-minute drive from Burleigh beach, Varsity Lakes offers a fully-planned community lifestyle. With beautiful waterways, recreational parks, and extensive walking and bike trails, this suburb provides a serene environment for families. Nearby amenities include schools, cafes, restaurants, retail outlets, and employment opportunities, making it an ideal place to call home.\n\n**School Catchment Zone: **\n- Caningeraba State Primary School\n- Varsity College Secondary School\n\nDon't miss the opportunity to make this home yours.\nStart your application by visiting 2 apply.com.au",
+    "energyEfficiencyRating": 0,
+    "features": ["Pets allowed"],
+    "geoLocation": {
+      "latitude": -28.0847024,
+      "longitude": 153.4209752
+    },
+    "headline": "Modern and Spacious Home in Varsity Lakes - Available for Rent",
+    "id": 16948991,
+    "inspectionDetails": {
+      "inspections": [],
+      "pastInspections": [],
+      "isByAppointmentOnly": true
+    },
+    "isNewDevelopment": false,
+    "landAreaSqm": 413.0,
+    "media": [
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16948991_1_1_240402_075940-w1036-h683"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16948991_2_1_240402_075940-w800-h600"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16948991_3_1_240402_075940-w800-h600"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16948991_4_1_240402_075940-w800-h600"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16948991_5_1_240402_075940-w800-h600"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16948991_6_1_240402_075940-w800-h600"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16948991_7_1_240402_075940-w800-h600"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16948991_8_1_240402_075940-w800-h600"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16948991_9_1_240402_075940-w800-h600"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16948991_10_1_240402_075940-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16948991_11_1_240402_075940-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16948991_12_1_240402_075940-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16948991_13_1_240402_075940-w800-h600"
+      },
+      {
+        "category": "image",
+        "type": "floorplan",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16948991_14_3_240402_075940-w1200-h1200"
+      }
+    ],
+    "priceDetails": {
+      "canDisplayPrice": false,
+      "displayPrice": "$1000 Per Week"
+    },
+    "propertyId": "WB-2505-JV",
+    "rentalDetails": {
+      "rentalMethod": "rent",
+      "source": "internal",
+      "canDisplayPrice": false
+    },
+    "seoUrl": "https://www.domain.com.au/14-wisconsin-street-varsity-lakes-qld-4227-16948991"
+  },
+  {
+    "objective": "rent",
+    "propertyTypes": ["house"],
+    "status": "new",
+    "saleMode": "rent",
+    "channel": "residential",
+    "addressParts": {
+      "stateAbbreviation": "qld",
+      "displayType": "fullAddress",
+      "streetNumber": "11",
+      "street": "Tattler Way",
+      "suburb": "Burleigh Waters",
+      "postcode": "4220",
+      "displayAddress": "11 Tattler Way, Burleigh Waters QLD 4220"
+    },
+    "advertiserIdentifiers": {
+      "advertiserType": "agency",
+      "advertiserId": 25351,
+      "contactIds": [1612402],
+      "agentIds": ["A4757"]
+    },
+    "apmIdentifiers": {
+      "suburbId": 5724
+    },
+    "bathrooms": 1.0,
+    "bedrooms": 3.0,
+    "buildingAreaSqm": 1551.43,
+    "carspaces": 3.0,
+    "dateAvailable": "2024-05-01",
+    "dateUpdated": "2024-04-04T03:56:15.07Z",
+    "dateListed": "2024-04-04T03:56:15Z",
+    "description": "Nestled in the heart of the picturesque Burleigh Waters neighbourhood, this charming family home offers comfort, convenience, and a relaxed lifestyle. Situated at 11 Tattler Way, this property is perfectly positioned for those seeking tranquillity without sacrificing access to amenities.\n\nFeatures:\n\n3 Bedrooms, 1 Bathroom: Ideal for families or individuals looking for comfortable living space.\nSpacious Kitchen and Bathroom: Plenty of room for cooking and bathing with generously sized kitchen and bathroom areas.\nAmple Yard Space: Front and back yards offer plenty of space for outdoor activities or relaxation.\nConvenient Location: Walk to nearby shops for your everyday needs.\nSide Access: Perfect for storing a boat or caravan, providing extra convenience.\nDouble Lock-up Garage: Secure parking for two vehicles or additional storage space.\nPets Considered: Pets are welcome upon application.\nLarge Air Con Unit in Living room \n\nDetails:\n\nAddress: 11 Tattler Way, Burleigh Waters\nBedrooms: 3\nBathrooms: 1\nGarage: Double\nRent: $850pw \nAvailable: 1st May 2024 \n\nApplication:\nStart your application process by visiting 2apply.com.au \n\nDon't miss out on this opportunity to make this beautiful Burleigh Waters property your new home. Schedule a viewing today!",
+    "features": ["Air conditioning", "Pets allowed"],
+    "geoLocation": {
+      "latitude": -28.0819399,
+      "longitude": 153.4300754
+    },
+    "headline": "Charming 3-Bedroom Family Home for Rent in Burleigh Waters",
+    "id": 16952924,
+    "inspectionDetails": {
+      "inspections": [],
+      "pastInspections": [],
+      "isByAppointmentOnly": true
+    },
+    "isNewDevelopment": false,
+    "landAreaSqm": 666.0,
+    "media": [
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16952924_1_1_240404_035613-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16952924_2_1_240404_035613-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16952924_3_1_240404_035613-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16952924_4_1_240404_035613-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16952924_5_1_240404_035613-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16952924_6_1_240404_035613-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16952924_7_1_240404_035613-w1600-h1065"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16952924_8_1_240404_035613-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16952924_9_1_240404_035613-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16952924_10_1_240404_035613-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/16952924_11_1_240404_035613-w1600-h1067"
+      }
+    ],
+    "priceDetails": {
+      "canDisplayPrice": false,
+      "displayPrice": "$850 Per Week"
+    },
+    "propertyId": "PE-8442-SL",
+    "rentalDetails": {
+      "rentalMethod": "rent",
+      "source": "internal",
+      "canDisplayPrice": false
+    },
+    "seoUrl": "https://www.domain.com.au/11-tattler-way-burleigh-waters-qld-4220-16952924"
+  },
+  {
+    "objective": "sale",
+    "propertyTypes": ["apartmentUnitFlat"],
+    "status": "live",
+    "saleMode": "buy",
+    "channel": "residential",
+    "addressParts": {
+      "stateAbbreviation": "qld",
+      "displayType": "fullAddress",
+      "streetNumber": "167",
+      "unitNumber": "1283",
+      "street": "Marine Parade",
+      "suburb": "Southport",
+      "postcode": "4215",
+      "displayAddress": "1283/167 Marine Parade, Southport QLD 4215"
+    },
+    "advertiserIdentifiers": {
+      "advertiserType": "agency",
+      "advertiserId": 25351,
+      "contactIds": [1511948],
+      "agentIds": ["A99709"]
+    },
+    "apmIdentifiers": {
+      "suburbId": 33894
+    },
+    "bathrooms": 3.0,
+    "bedrooms": 4.0,
+    "buildingAreaSqm": 247.8,
+    "carspaces": 2.0,
+    "dateUpdated": "2023-11-22T05:38:04.363Z",
+    "dateListed": "2022-11-17T03:21:40Z",
+    "description": "Hurry to secure this Unique opportunity in the soon to be completed \"Marine Quarter Residence\", boasting breath taking views in all directions, this is a one of a kind and will not last long !\n\nSet atop of Tower 1 on level 28, lies the Creme De La Creme Penthouse of the new \"Marine Quarter\" residence, which features and unmatched amazing array of uninterrupted views from North over Stradbroke Island, South to Surfers Skyline, East over Broadwater and beyond to the ocean. \n\nWith 4 bedrooms, 3.5 bathrooms, 2 car spaces and storage area, this magnificent penthouse can accommodate a wide range of lifestyles for those who won't settle for anything less than the absolute best.\n\nMarine Quarter is the only approved residential development on the Broadwater Parklands, and is perfectly positioned on the waterfront side of Marine Parade, to deliver the ultimate Gold Coast lifestyle.\n\nFeatures include;\n\n- Meticulously designed to maximise its views through striking floor-to-ceiling glass.\n- 4 large bedrooms (main with ensuite, Large WIR and balcony)\n- 3.5 bathrooms ( 2 x ensuites )\n- Huge open plan lounge, dining and kitchen area, extending out onto large balcony.\n- Chef's kitchen with butler's pantry, full height cabinets and stone benchtops.\n- Large windows promote unheralded levels of cross ventilation\n- Fully ducted air-conditioning for year round comfort\n- Easy access to entertainment lounge, gym, BBQ area and pool\n- Secure 2 car parking (side by side) and storage space included\n- Live on the park, by the sea just a short walk to Chirn Park's cafes & restaurants, Cafe Catalina in the parklands and minutes to Australia Fair.\n- Due for completion in August 2023\n\nThe owner's plans have changed, and their instructions are clear, this Must Be Sold!\nCall Brent Winston on 0414 545 355 for further details\n\nDisclaimer: \nWe have in preparing this information used our best endeavours to ensure that the information contained herein is true and accurate, but accept no responsibility and disclaim all liability in respect of any errors, omissions, inaccuracies or misstatements that may occur. Prospective purchasers should make their own enquiries to verify the information contained herein. \n* denotes approximate measurements.",
+    "features": ["Ensuite"],
+    "geoLocation": {
+      "latitude": -27.9567806,
+      "longitude": 153.4104013
+    },
+    "headline": "4 Bedroom Penthouse  Stunning Panoramic Views!",
+    "id": 2018207319,
+    "inspectionDetails": {
+      "inspections": [],
+      "pastInspections": [],
+      "isByAppointmentOnly": true
+    },
+    "isNewDevelopment": false,
+    "media": [
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018207319_12_1_221216_015259-w1987-h885"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018207319_2_1_221216_020120-w1000-h556"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018207319_1_1_221117_032139-w1132-h849"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018207319_9_1_221216_020120-w1084-h813"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/0d13bc17-f45e-4256-9054-1a12c447e459-w2000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018207319_4_1_221216_020120-w1000-h555"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015098965_6_1_190327_022706-w2000-h1333"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018207319_12_1_221216_020120-w900-h1125"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018207319_14_1_221216_020120-w1000-h666"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018207319_15_1_221216_020120-w800-h1000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018207319_7_1_221216_020120-w1266-h813"
+      },
+      {
+        "category": "image",
+        "type": "floorplan",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018207319_12_3_221117_032139-w1200-h1200"
+      }
+    ],
+    "priceDetails": {
+      "canDisplayPrice": false,
+      "displayPrice": "CONTACT AGENT"
+    },
+    "saleDetails": {
+      "saleMethod": "privateTreaty",
+      "tenderDetails": {},
+      "tenantDetails": {}
+    },
+    "seoUrl": "https://www.domain.com.au/1283-167-marine-parade-southport-qld-4215-2018207319"
+  },
+  {
+    "objective": "sale",
+    "propertyTypes": ["industrialWarehouse"],
+    "status": "live",
+    "saleMode": "buy",
+    "channel": "commercial",
+    "addressParts": {
+      "stateAbbreviation": "qld",
+      "displayType": "fullAddress",
+      "streetNumber": "88",
+      "street": "Western Drive",
+      "suburb": "Gatton",
+      "postcode": "4343",
+      "displayAddress": "88 Western Drive, Gatton QLD 4343"
+    },
+    "advertiserIdentifiers": {
+      "advertiserType": "agency",
+      "advertiserId": 25351,
+      "contactIds": [1927622],
+      "agentIds": ["A192751"]
+    },
+    "apmIdentifiers": {
+      "suburbId": 13904
+    },
+    "bathrooms": 0.0,
+    "bedrooms": 0.0,
+    "buildingAreaSqm": 690.0,
+    "carspaces": 0.0,
+    "dateUpdated": "2024-01-31T04:20:59.107Z",
+    "dateListed": "2024-01-31T04:20:59Z",
+    "description": "88 Western Drive represents a rare opportunity to purchase a holding in the thriving industrial precinct of Gatton.\n\nThe property is on 3,237m2 of land, with approximately 690m2 under-roof, over 900m2 of hardstand and a large residence with a pool.\n\nCurrently operating as a smash repair service, the sale includes plant and equipment and will be sold as a going concern.\n\nFor more information contact Paul - 0422 023 972",
+    "geoLocation": {
+      "latitude": -27.5728518,
+      "longitude": 152.2615402
+    },
+    "headline": "Prime Industrial Opportunity",
+    "id": 2018524061,
+    "inspectionDetails": {
+      "inspections": [],
+      "pastInspections": [],
+      "isByAppointmentOnly": true
+    },
+    "isNewDevelopment": false,
+    "landAreaSqm": 3237.0,
+    "media": [
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_1_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_2_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_3_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_4_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_5_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_6_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_7_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_8_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_9_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_10_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_11_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_12_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_13_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_14_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_15_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_16_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_17_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_18_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_19_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_20_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_21_1_230510_034838-w3000-h2000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_22_1_230510_034838-w2000-h3000"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_23_1_230510_034838-w5272-h3515"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_24_1_230510_034838-w5272-h3515"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_25_1_230510_034838-w5272-h3515"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.commercialrealestate.com.au/v1/bucket/image/2018524061_26_1_230510_034838-w5272-h3515"
+      }
+    ],
+    "priceDetails": {
+      "canDisplayPrice": false,
+      "displayPrice": "Contact Agent"
+    },
+    "propertyId": "SU-2752-QL",
+    "saleDetails": {
+      "saleMethod": "privateTreaty",
+      "tenderDetails": {},
+      "tenantDetails": {},
+      "annualReturn": 0
+    },
+    "seoUrl": "https://www.commercialrealestate.com.au/2018524061",
+    "highlights": [
+      "5 Star Main Street Exposure",
+      "Includes Plant and Equipment",
+      "Large On-site Residence"
+    ]
+  },
+  {
+    "objective": "sale",
+    "propertyTypes": ["house"],
+    "status": "live",
+    "saleMode": "buy",
+    "channel": "residential",
+    "addressParts": {
+      "stateAbbreviation": "qld",
+      "displayType": "fullAddress",
+      "streetNumber": "43",
+      "street": "Whiptail Place",
+      "suburb": "Advancetown",
+      "postcode": "4211",
+      "displayAddress": "43 Whiptail Place, Advancetown QLD 4211"
+    },
+    "advertiserIdentifiers": {
+      "advertiserType": "agency",
+      "advertiserId": 25351,
+      "contactIds": [1830175],
+      "agentIds": ["A150474"]
+    },
+    "apmIdentifiers": {
+      "suburbId": 164
+    },
+    "bathrooms": 3.0,
+    "bedrooms": 5.0,
+    "buildingAreaSqm": 428.0,
+    "carspaces": 3.0,
+    "dateUpdated": "2024-03-28T06:12:52.01Z",
+    "dateListed": "2023-09-14T06:42:58Z",
+    "description": "Enjoy relaxing hinterland views with your morning coffee because 'Peak Hour' noise only exists in the form of birds nesting and koalas snoozing amongst the serenity of your native bushland surroundings.but don't let the serenity fool you, you're only 20min to the white sands and world famous surf breaks of Gold Coasts' beaches.\n\nNestled HIGH above others in the area, as you ascend the driveway you'll be greeted by the beautiful native gumtree that guards this stunning NEW five bedroom home that sets a benchmark for quality, style and functionality.\n\nWith a multitude of generous parking options, you'll enter the home through double hardwood doors and be drawn towards magnificent bushland views from EVERY ROOM. \n\nA gourmet entertainer's kitchen is at the heart of the home with superior inclusions including stone benchtops, stainless-steel SMEG appliances and pendant lights. The walk-through Butlers pantry provides an abundance of bench and storage space. From the kitchen there's magnificent views and a seamless transition to the formal dining and family living rooms out to the outdoor alfresco - perfect for entertaining or large family gatherings.\n\nNo expense has been spared with quality finishes throughout that offer a luxurious escape from the rigours of city life whilst leaving a substantial blank canvas to add a tennis court, swimming pool, stables or an additional dwelling ( subject to GCC approval )\n\nNeighbouring properties within this exclusive Hidden Woods Estate consist of generous-sized lots to engender privacy - with the privately owned Grand Golf Course with Greg Norman as member #1 reflecting the prestigious nature of area. \n\nProperty Features;\n\n* 6086sqm of useable land on town water with bush reserves on two sides\n* Quality steel frame.\n* 5 huge bedrooms\n* Grand master bedroom with double door entry providing a serene and tranquil space to relax and unwind. His/hers walk in robes, exquisite double ensuite, deep soak tub and floor to ceiling tiled shower \n* Guest bedroom opening to balcony, with walk through robe and ensuite\n* Remaining 3 bedrooms have walk in ward robes\n* Theatre/media room\n* Quality kitchen with superior inclusions including stone bench tops, island bench and breakfast bar, stainless-steel SMEG appliances, induction cook top, pendant lights and an abundance of storage space and cupboards.\n* Well appointed butlers pantry\n* Bespoke powder room on lower level\n* Main laundry with AEG appliances and direct access to outside\n* 25KW reverse cycle air-conditioning system with remote capability\n* Energy efficient 280L heat pump hot water system\n* Hybrid wooden flooring with rigid core technology\n* Alarm system ( option for remote access )\n* Each room is CAT 6 hardwired for internet accessibility\n* Triple garaging + with EV charging capability\n* Expansive driveway access with huge parking capability for caravans, boats and all the toys\n* Quality Bradman double glazed windows\n* Additional insulation in walls and ceiling to ensure consistent temperature year round\n* Sound proofing between levels\n* Solid hardwood fencing surrounds the property with 1300sqm of new quality lawn\n* Concrete walkway surrounding the entire house\n* Leaf guards on all guttering and valleys\n* Security screens\n* External security lighting with additional water taps and power points\n* Onsite hardwired connectivity pit - future proofing prospective improvements\n* Modern septic system\n* NBN hardwired Internet\n\nLocation:\n\n* 10 minutes to M1 motorway, north to Brisbane or south to Byron Bay\n* Minutes drive to Hinze Dam, Shopping Centres, local train station, Metricon Stadium and golf courses \n* 20-25 mins to Gold Coast beaches.\n\nDisclaimer: \nWe have in preparing this information used our best endeavours to ensure that the information contained herein is true and accurate, but accept no responsibility and disclaim all liability in respect of any errors, omissions, inaccuracies or misstatements that may occur. Prospective purchasers should make their own enquiries to verify the information contained herein. \n* denotes approximate measurements.",
+    "features": ["Ensuite"],
+    "geoLocation": {
+      "latitude": -28.009123,
+      "longitude": 153.2894661
+    },
+    "headline": "CONTACT AGENT: OWNERS WANT A SALE ON OR BEFORE 4TH MARCH",
+    "id": 2018770910,
+    "inspectionDetails": {
+      "inspections": [],
+      "pastInspections": [],
+      "isByAppointmentOnly": true
+    },
+    "isNewDevelopment": false,
+    "landAreaSqm": 6086.0,
+    "media": [
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_14_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_11_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_6_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_4_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_35_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_10_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_1_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_5_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_7_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_8_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_9_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_3_1_230914_064257-w1600-h1200"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_33_1_230914_064257-w1600-h1200"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_2_1_230914_064257-w1600-h1200"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_1_1_230918_011235-w4032-h3024"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_12_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_13_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_19_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_16_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_17_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_18_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_20_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_21_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_22_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_23_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_24_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_25_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_26_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_27_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_28_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_29_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_30_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_31_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_32_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_36_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_34_1_230914_064257-w1600-h1067"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_39_1_230914_112323-w3840-h2160"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_40_1_230914_112323-w3840-h2160"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_41_1_230914_112323-w3840-h2160"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_37_1_230914_064257-w1600-h1200"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_38_1_230914_064257-w1600-h1200"
+      },
+      {
+        "category": "image",
+        "type": "photo",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_15_1_230914_064257-w1600-h1200"
+      },
+      {
+        "category": "image",
+        "type": "floorplan",
+        "url": "https://bucket-api.domain.com.au/v1/bucket/image/2018770910_41_3_230914_064257-w1200-h1200"
+      },
+      {
+        "category": "video",
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=BRVBQOIwkmw"
+      }
+    ],
+    "priceDetails": {
+      "canDisplayPrice": false,
+      "displayPrice": "CONTACT AGENT"
+    },
+    "propertyId": "TJ-7533-DF",
+    "saleDetails": {
+      "saleMethod": "privateTreaty",
+      "tenderDetails": {},
+      "tenantDetails": {}
+    },
+    "seoUrl": "https://www.domain.com.au/43-whiptail-place-advancetown-qld-4211-2018770910"
+  }
+]

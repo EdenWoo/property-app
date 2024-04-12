@@ -19,7 +19,7 @@ const ListingCard: FC<ListingCardProps> = ({
                 <div className="">
                     {
                         media.type === 'photo' ? (
-                            <img src={media.url} alt={''} className="h-80 object-cover"/>
+                            <img src={media.url} alt={''} className="w-[600px] h-80 object-cover"/>
                         ) : (
                             <div className='h-80 flex justify-center items-center border border-solid'>
                                 <a href={media.url} target="_blank">

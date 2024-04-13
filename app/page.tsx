@@ -24,6 +24,7 @@ export default function Home() {
                             local json data.
                         </li>
                         <li>Unit test added for important logic under: parsePrice.test.ts</li>
+                        <li>Responsive on both phone and desktop.</li>
                         <li>
                             Implemented ActiveListingsCard, AveragePriceCard,AgencyInfoCard:
                             <Image src={cards} width={1000} alt={'image'}/>
